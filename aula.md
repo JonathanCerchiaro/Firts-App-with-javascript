@@ -7,11 +7,11 @@
 
   ## Peças de uma linguagem
 
-   - Comentários
+   - Comentários: Colocar alguma coisa no código que não vai aparecer
    - Declaração de variáveis (const, let)
    - Operadores (atribuição, concatenação, matemáticos, Lógicos )
    - Tipos de dados (string, number, boolean)
-   - Estrutura de dados (functions, object, array)
+   - Estrutura de dados (functions, object, array) também são tipos de dados porém sao estruturados
    - Controle de fluxo (if/else)
    - Estrutura de repetição (for, while)
 
@@ -39,6 +39,7 @@
 
    Operador de atribuição de valor: é o sinal de = 
    Operador de contatenação é o sinal de igual é a junção de duas ou mais strings 
+   Operadores de comparação: ==  !=  < >  <=  >=
    
    ## Estruturas de dados:
 
@@ -64,6 +65,7 @@
    # Condicionais 
    
    switch
+   if/else
 
    ## Modulos em Node.js:
 
@@ -73,7 +75,7 @@
    ## Programação assíncrona e Promises:
 
    Uso de funções assíncronas (async/await) 
-   
+
    Asyn: é usada para declarar uma função assíncrona. Uma função marcada como async sempre retorna uma Promise
    automaticamente, mesmo que você nao retorna explicitamente uma Promise. Essa função permite o uso do await
 
