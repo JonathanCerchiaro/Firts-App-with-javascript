@@ -56,3 +56,13 @@
    - criar, passar argumento
    - executar 
    - arrow function / name function
+
+   ## Estrutura de repetição
+
+   While: é uma estrutura de repetição
+
+   # Condicionais 
+   
+   switch
+
+
