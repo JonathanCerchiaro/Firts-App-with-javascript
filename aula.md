@@ -40,12 +40,15 @@
    Operador de atribuição de valor: é o sinal de = 
    Operador de contatenação é o sinal de igual é a junção de duas ou mais strings 
    Operadores de comparação: ==  !=  < >  <=  >=
+   spread operator: ... Os três pontos dependem da onde são colocados
    
    ## Estruturas de dados:
 
    ### Arrays: 
 
    Uma lista que contém qualquer tipo de dado
+   Métodos de array é toda função que esta dentro de um objeto
+   exemplos: push, [find, forEach filter]: HOF (Higher Order functions)
 
    ### Objetos:
    
