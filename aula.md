@@ -48,7 +48,7 @@
 
    Uma lista que contém qualquer tipo de dado
    Métodos de array é toda função que esta dentro de um objeto
-   exemplos: push, [find, forEach filter]: HOF (Higher Order functions)
+   exemplos: push, [find, forEach, filter, map]: HOF (Higher Order functions)
 
    ### Objetos:
    
