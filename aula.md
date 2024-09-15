@@ -65,9 +65,26 @@
    
    switch
 
-   ## Informações adicionais
+   ## Modulos em Node.js:
+
+   - Importação de módulos (require, commonJS)
+   - Biblioteca 'inquirer' para criar prompts interativos
+
+   ## Programação assíncrona e Promises:
+
+   Uso de funções assíncronas (async/await) 
    
+   Asyn: é usada para declarar uma função assíncrona. Uma função marcada como async sempre retorna uma Promise
+   automaticamente, mesmo que você nao retorna explicitamente uma Promise. Essa função permite o uso do await
+
+   await: Só pode ser usada dentro de funções marcadas com async. Ela pausa a execução da função até que a 
+   Promise seja resolvida ou rejeitada. Isso torna o código assíncrono muito mais legível, semelhante a código
+   síncrono. 
+
+   ## Informações adicionais
+   Prompt() pode ser usado para exibir uma janela de diálogo/pergunta que solicita uma entrada   ao usuário
    Break é usado para impedir que o código continue executando outros casos
+
 
 
 
