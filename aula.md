@@ -20,3 +20,20 @@
    Coletar os dados
    Processar os dados (manipular, alterar, gerenciar ...)
    Apresentar os dados 
+
+   ## Escopo e variáveis:
+   
+   Variáveis globais e locais { } as chaves são um novo escopo tudo o que é escrito 
+   dentro delas é considerado local e tudo fora delas é global
+
+   Constantes
+
+   ## Tipos de dados:
+
+   Strings (textos): "" '' `` (aspas duplas, aspas simples e acento grave)
+   Number: 2 1.4 (são numeros, colocar o ponto é um numero quebrado)
+   function (um tipo de dado função.)
+
+   ## Operadores
+
+   Operador de atribuição de valor: é o sinal de = 
