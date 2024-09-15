@@ -65,4 +65,9 @@
    
    switch
 
+   ## Informações adicionais
+   
+   Break é usado para impedir que o código continue executando outros casos
+
+
 
