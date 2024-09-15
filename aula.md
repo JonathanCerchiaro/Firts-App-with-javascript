@@ -32,8 +32,27 @@
 
    Strings (textos): "" '' `` (aspas duplas, aspas simples e acento grave)
    Number: 2 1.4 (são numeros, colocar o ponto é um numero quebrado)
-   function (um tipo de dado função.)
+   function: (um tipo de dado função.)
+   boolean: true ou false
 
    ## Operadores
 
    Operador de atribuição de valor: é o sinal de = 
+   Operador de contatenação é o sinal de igual é a junção de duas ou mais strings 
+   
+   ## Estruturas de dados:
+
+   ### Arrays: 
+
+   Uma lista que contém qualquer tipo de dado
+
+   ### Objetos:
+   
+   Atributos e métodos
+   Criação e manipulação de objetos
+   Acesso a propriedades de objetos 
+
+   ### Functions
+   - criar, passar argumento
+   - executar 
+   - arrow function / name function
